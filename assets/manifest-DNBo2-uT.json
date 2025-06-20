@@ -1,0 +1,22 @@
+{
+  "name": "Nuconko 3.0",
+  "short_name": "Nuconko",
+  "description": "Nuconko game",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "landscape-primary",
+  "background_color": "#202020",
+  "theme_color": "#601020",
+  "icons": [
+    {
+      "src": "/assets/icon_512-CeYvArBF.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon_192-CeYvArBF.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
