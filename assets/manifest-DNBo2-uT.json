@@ -9,12 +9,12 @@
   "theme_color": "#601020",
   "icons": [
     {
-      "src": "/nuconko30/assets/icon_512-CeYvArBF.png",
+      "src": "/assets/icon_512-CeYvArBF.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/nuconko30/assets/icon_192-CeYvArBF.png",
+      "src": "/assets/icon_192-CeYvArBF.png",
       "sizes": "192x192",
       "type": "image/png"
     }
